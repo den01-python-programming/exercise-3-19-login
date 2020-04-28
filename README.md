@@ -10,8 +10,8 @@ Write a program that recognizes the following users:
 The program either shows a personal message or informs of an incorrect username or password.
 
 ```plaintext
-Enter username: **alex**
-Enter password: **sunshine**
+Enter username: **grace**
+Enter password: **hopper**
 You have successfully logged in!
 ```
 
